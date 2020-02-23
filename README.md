@@ -1,6 +1,6 @@
 # Beverage_dispenser
 
-> My world-class Nuxt.js project
+> Vending Machine (Beverage)
 
 ## Build Setup
 
